@@ -39,8 +39,8 @@ Aplikasi ini adalah **sistem parkir berbasis console** yang dibangun menggunakan
 ## Cara Menjalankan
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/nama-pengguna/sistem-parkir.git
-   cd sistem-parkir
+   git clone https://github.com/binsarkiel/parking-system.git
+   cd parking-system
    ```
 
 2. Bangun proyek:
